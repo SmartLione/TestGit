@@ -9,7 +9,7 @@ public class TestGitHub : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        go1 = GameObject.Find("Cube");
+        //go1 говно!
     }
 
     // Update is called once per frame

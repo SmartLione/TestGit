@@ -10,6 +10,7 @@ public class TestGitHub : MonoBehaviour
     void Start()
     {
         go1 = GameObject.Find("Cube");
+        //sdjgfshjgfjshdg
     }
 
     // Update is called once per frame

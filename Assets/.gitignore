@@ -1,0 +1,9 @@
+Plugins/
+SteamVR/
+SteamVR_Resources/
+XR/
+
+Plugins.meta
+SteamVR.meta
+SteamVR_Resources.meta
+XR.meta
